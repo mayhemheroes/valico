@@ -1,0 +1,6 @@
+project: valico
+target: compile
+duration: 90
+
+cmds:
+    - cmd: /compile
