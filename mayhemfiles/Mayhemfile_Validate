@@ -1,0 +1,6 @@
+project: valico
+target: validate
+duration: 90
+
+cmds:
+    - cmd: /validate
